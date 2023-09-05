@@ -60,7 +60,7 @@ Let's turn our attention to the client.
 ### **Game Restart**
 - The game can be restarted by pressing 'r', with the last score being saved before the reset.
 
----
+![image](https://github.com/JerryNixon/cornell-leaderboard/assets/1749983/b8cda001-9a60-4824-a1d7-99e12cf12282)
 
 ### **Service Class**
 The Service Class in C# is essential for managing scores and user verification, creating a seamless bridge between gameplay and data storage.
